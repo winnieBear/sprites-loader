@@ -1,4 +1,4 @@
-sprites-loader
+msprite-loader
 ___
 ## 说明
 this plugin be based on isprite-loader.
@@ -21,7 +21,7 @@ module:{
                 use: [{
                   loader:'css-loader'
                 },{
-                  loader:'isprite-loader',
+                  loader:'msprite-loader',
                   options:{
                     outputPath:'./src/assets/img/',
                     scale:0.3333333 //如果提供的icon是3倍图，合成之后的图片样式会乘以0.33333，默认是1

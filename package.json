@@ -1,13 +1,13 @@
 {
-  "name": "isprite-loader",
-  "version": "0.1.2",
+  "name": "msprite-loader",
+  "version": "0.1.0",
   "description": "webpack sprites loader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "isprite-loader",
+    "msprite-loader",
     "webpack",
     "sprite",
     "webpack-sprite"
@@ -17,6 +17,6 @@
     "mkdirp": "^0.5.1",
     "spritesmith": "^3.2.1"
   },
-  "author": "mvp_star",
+  "author": "winnieBear",
   "license": "MIT"
 }
